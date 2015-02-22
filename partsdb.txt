@@ -272,3 +272,4 @@ FGPMMOPA6H	GlobalTop	AD	ID: 790	"GPS module, Buy from Adafruit"	GPS	*	3.3V	modul
 43-01211	Conec	DK	626-1513-ND	M12-5 PCB header, right angle, male pins, shielded	Connector	*	*	M12	*	10.63	Connectors
 42-01146	Conec	*	*	CONN HEADER PNL MNT 8POS PIN PCB	Connector	*	*	M8	*
 043045-0418	Molex	DK	WM1802TR-ND	"Header, MicroFit, 4pos, SMD, Vertical"	Connector	*	*	*	*
+TL431ACDBVR	Texas Instruments	DK	296-15236-2-ND	"IC VREF SHUNT ADJ SOT23-5"	Shunt Regulator	1%	min 2.495V-max 36V	SOT-23-5	.44000	ICs			
