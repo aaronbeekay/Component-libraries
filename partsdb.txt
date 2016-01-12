@@ -208,7 +208,7 @@ FDT439N	Fairchild Semiconductor	DK	FDT439NCT-ND	"N-Channel MOSFET, 30V, 6.3A, 2.
 FDV301N	Fairchild Semiconductor	NW	58K8856	"N-channel MOSFET, 25V, 220 mA, SOT-23"	MOSFET	*	25V	SOT-23	*	0.034	Semiconductors
 3362P-1-103LF	Bourns Inc	DK	3362P-103LF-ND	"Trimpot, 10K, vertical"	Pot	*	*	3362P	*	1.02	
 MF-FSMF050X-2	Bourns Inc	NW	87W5964	"Fuse, Resettable PTC, 6V, 500mA, 0603"	PTC	*	6V	603	500mA		
-1432868-1	TE Connectivity	NW	21M4882	"Automotive Relay, SPDT, 12VDC, 40A, PCB Mount"	Relay	*	*	*	*		
+1432868-1	TE Connectivity	NW	21M4882	"Automotive Relay, SPDT, 12VDC, 40A, PCB Mount"	Relay	*	*	*	*	2.93	Electromechanical
 2-1415030-1	TE Connectivity	DK	PB768-ND	Electromechanical Relay 12VDC 400Ohm 15A SPDT (15x15x20)mm THT Power Relay	Relay	*	12V	*	15A	1.94	Electromechanical
 JSM1-12V-5	Panasonic	NW	14J1764	"RELAY, PCB, SPCO, 12VDC, 15A"	Relay	*	12V	*	15A	2.6	
 ACT512-ND	Panasonic	DK	255-1852-ND	RELAY AUTOMOTIVE SPDT 20A 12V	Relay	*	*	*	20A		
